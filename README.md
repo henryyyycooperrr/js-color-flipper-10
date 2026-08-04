@@ -1,2 +1,4 @@
-# js-color-flipper-10
+# Js Color Flipper 10
+
 Generate random hex colors for UI elements in JavaScript.
+
